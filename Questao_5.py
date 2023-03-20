@@ -1,0 +1,25 @@
+soma = int(4+4)
+print("Adição 4+4")
+print(soma)
+print('   ')
+x = int(2*4)
+print("Multiplicação 2x4")
+print(x)
+print('')
+menos = int(12-4)
+print("Subtração 12-4")
+print(menos)
+print('')
+div = int(64/8)
+print("Divisão 64/8")
+print(div)
+print('')
+pot = int(2**3)
+print('2 elevado a 3')
+print(pot)
+
+print('')
+print('Fim!')
+
+
+
